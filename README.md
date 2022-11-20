@@ -29,4 +29,7 @@ docker compose up -d
 
 ### 3. Ready to go!
 
-Visit `http://localhost:3000` in your web browser
+Visit `http://localhost:3000` in your web browser.
+
+![image](https://user-images.githubusercontent.com/110657529/202927428-7bbdc317-c312-4180-b2f1-08c925b67690.png)
+
